@@ -1,0 +1,15 @@
+{
+  "name": "builtbybennett",
+  "version": "1.0.0",
+  "description": "built by bennett server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Bennett Schoonerman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
